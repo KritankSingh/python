@@ -2,9 +2,12 @@
 
 hrs = input("Enter Hours:")
 rate = input("Enter rate per hour")
-
-h = float(hrs)
-r = float(rate)
+try:
+    h = float(hrs)
+    r = float(rate)
+except:
+    print("pls enter numeric value")
+    quit()
 
 if h>40 :
     pay = 40*r
