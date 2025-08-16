@@ -64,13 +64,6 @@ If you answer everything correctly:
 
 ------------------------------------------------------------------------
 
-## 📂 File Structure
-
-    .
-    ├── kbc_game.py   # Main game script
-    └── README.md     # Documentation
-
-------------------------------------------------------------------------
 
 ## 🔮 Future Enhancements (Optional Ideas)
 
